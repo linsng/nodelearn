@@ -1,2 +1,5 @@
 # .vscode
 /.vscode/
+
+# node_modules
+/code/hello-koa/node_modules/
